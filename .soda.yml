@@ -14,4 +14,3 @@ stages:
     - ll
     - plugin_unity3d -p iphone -r . -u /Applications/Unity/Unity.app/Contents/MacOS/Unity
     - plugin_xcode --xCodePath /Applications/Xcode.app/ --iosPath result --iosName output.ipa --codeSignIdentity "iPhone Developer%3A+junchi he (22AYX4B947)"  --provisioningProfile "2287a324-856c-4ccd-bb90-047baafbbe42" --provisionMethod  development
- 
